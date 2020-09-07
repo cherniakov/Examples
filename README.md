@@ -1,2 +1,1 @@
-# Examples
-Showing my code
+Примеры моего кода
